@@ -31,4 +31,9 @@
         android:layout_marginBottom="16dp"
         app:srcCompat="@android:drawable/ic_dialog_email" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PERUBAHAN"/>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
